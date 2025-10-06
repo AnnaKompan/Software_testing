@@ -1,10 +1,10 @@
 # Software_testing
 Unit Testing, Fuzz Testing, TBD, TDD
 
-[Lab 1](./lab_1) - Basic Unit Testing
-[Lab 2](./lab_2) - Advanced Unit Testing (Stub, Mock, Spy)
-[Lab 3](./lab_3) - Advanced Unit Testing (Parameterized test)
-[HW 2](./hw_2) - TDD (Test Drive Development)
+- [Lab 1](./lab_1) - Basic Unit Testing
+- [Lab 2](./lab_2) - Advanced Unit Testing (Stub, Mock, Spy)
+- [Lab 3](./lab_3) - Advanced Unit Testing (Parameterized test)
+- [HW 2](./hw_2) - TDD (Test Drive Development)
 
 1. Stub, Mock, Spy - test doubles.
 
