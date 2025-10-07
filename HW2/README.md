@@ -10,6 +10,6 @@ or
 
 Output should be:
 
-[!Output_1](./test_output_1.png)
+![Output_1](./test_output_1.png)
 or
-[!Output_2](./test_output_2.png)
+![Output_2](./test_output_2.png)
