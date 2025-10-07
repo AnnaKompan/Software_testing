@@ -14,4 +14,9 @@ Unit Testing, Fuzz Testing, TBD, TDD
    
    **Spy** - record interactions with the object (number of times called, return value, args passed during each invocation)
    
-4. describe() - to organize and group related test cases into logical blocks.
+3. describe() - to organize and group related test cases into logical blocks.
+
+HW2 - **TDD Loop** Red -> Green -> Refactor
+- **R** - failing test
+- **G** - just enough code to make test pass
+- **R** - clean up code
