@@ -3,12 +3,15 @@
 - write code to make tests pass - **Green**
 - refactoring if needed
 
-To test run:
+## To test run:
+
 ``node --test calc_test.js``
+
 or
+
 ``node --test --experimental-test-coverage``
 
-Output should be:
+## Output should be:
 
 ![Output_1](./test_output_1.png)
 
