@@ -4,6 +4,7 @@ Unit Testing, Fuzz Testing, TBD, TDD
 - [Lab 1](./Lab1) - Basic Unit Testing
 - [Lab 2](./Lab2) - Advanced Unit Testing (Stub, Mock, Spy)
 - [Lab 3](./Lab3) - Advanced Unit Testing (Parameterized test)
+- [Lab 4](./Lab4) - Puppeteer (JS library providing high-lvl API to control Chrome or Firefox) simulate user's actions
 - [HW 2](./HW2) - TDD (Test Drive Development)
 
 2. Stub, Mock, Spy - test doubles.
